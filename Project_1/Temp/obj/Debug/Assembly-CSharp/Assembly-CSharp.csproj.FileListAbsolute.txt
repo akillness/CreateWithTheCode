@@ -1,9 +1,0 @@
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/bin/Debug/Assembly-CSharp.deps.json
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/bin/Debug/Assembly-CSharp.dll
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/bin/Debug/Assembly-CSharp.pdb
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.csproj.AssemblyReference.cache
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.csproj.CoreCompileInputs.cache
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.sourcelink.json
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.dll
-/Users/jangyoung/Documents/github/CreateWithCode/PlayerControl/Project_1/Temp/obj/Debug/Assembly-CSharp/Assembly-CSharp.pdb
