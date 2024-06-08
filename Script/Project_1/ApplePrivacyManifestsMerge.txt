@@ -1,4 +1,0 @@
-Adding elements from Unity
-	NSPrivacyCollectedDataTypes:
-		<empty>
-
