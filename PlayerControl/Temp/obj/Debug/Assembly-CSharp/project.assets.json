@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jangyoung/Documents/github/CreateWithCode/CreateWithTheCode/Prototype 1/Assembly-CSharp.csproj",
+      "projectUniqueName": "/Users/jangyoung/Documents/github/CreateWithCode/CreateWithTheCode/PlayerControl/Assembly-CSharp.csproj",
       "projectName": "Assembly-CSharp",
-      "projectPath": "/Users/jangyoung/Documents/github/CreateWithCode/CreateWithTheCode/Prototype 1/Assembly-CSharp.csproj",
+      "projectPath": "/Users/jangyoung/Documents/github/CreateWithCode/CreateWithTheCode/PlayerControl/Assembly-CSharp.csproj",
       "packagesPath": "/Users/jangyoung/.nuget/packages/",
-      "outputPath": "/Users/jangyoung/Documents/github/CreateWithCode/CreateWithTheCode/Prototype 1/Temp/obj/Debug/Assembly-CSharp/",
+      "outputPath": "/Users/jangyoung/Documents/github/CreateWithCode/CreateWithTheCode/PlayerControl/Temp/obj/Debug/Assembly-CSharp/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/jangyoung/.nuget/NuGet/NuGet.Config"
