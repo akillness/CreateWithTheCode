@@ -23,6 +23,6 @@ It's practice how to use Unity 3D, Unit 1 Player Control
 ### Contents
 1. Start 3D Engine
 2. Pedal to the Metal
-3. Track fast moving object
-4. Ready to drive
+3. High speed chase
+4. Step into the Driver's seat
 5. Airplane programming
