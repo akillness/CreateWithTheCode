@@ -10,6 +10,18 @@ I'm ready preparing to develop for Generative AI Game.
 Environment Setting to use Unity3D
 - Unity Hub and Unity3D
 - Visual Studio Code ( Becuase of MacOS user )
+  - Powerful editor (IntelliSense support)
+  - Supports various languages ​​and environments through extended menus
+  - Fast runtime
+  - Unlimited commercial use possible
+
+To set up the installation environment
+- .NET Core SDK
+  - [Download](https://dotnet.microsoft.com/ko-kr/download) and install .Net 
+- Mono
+  - [Download](https://www.mono-project.com/download/stable/) and install Mono
+- VS Code C# Extension
+  - [Download](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) or Install C# Extenstion in VS Code
 
 ## Unit 1. PlayerControl 
 
