@@ -37,4 +37,4 @@ It's practice how to use Unity 3D, Unit 1 Player Control
 2. Pedal to the Metal
 3. High speed chase
 4. Step into the Driver's seat
-5. Airplane programming
+5. Plane programming
