@@ -32,7 +32,9 @@ It's practice how to use Unity 3D, Unit 1 Player Control
 
 ![Start 3D Engine](/img/set_unity_project_1.png)*👆 Unity 3D project setting my work*
 
-![Sub-Goal Run to propeller](/img/Propeller.gif)*👆 Sub-Goal Run to Propeller
+![Sub-Goal Run to propeller](/img/Propeller.gif)
+
+👆 Sub-Goal Run to Propeller
 
 ### Contents
 1. Start 3D Engine
