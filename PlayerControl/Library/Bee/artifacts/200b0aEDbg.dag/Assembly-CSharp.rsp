@@ -353,8 +353,10 @@
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Unit_1/Scripts/FollowPlayer.cs"
-"Assets/Unit_1/Scripts/PlayerController.cs"
+"Assets/PlaneProgramming/Challenge 1/Scripts/FollowPlayerX.cs"
+"Assets/PlaneProgramming/Challenge 1/Scripts/PlayerControllerX.cs"
+"Assets/PlayerControl/Course Library/Scripts/FollowPlayer.cs"
+"Assets/PlayerControl/Course Library/Scripts/PlayerController.cs"
 -langversion:9.0
 /deterministic
 /optimize-
