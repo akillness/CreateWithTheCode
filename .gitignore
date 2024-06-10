@@ -1,3 +1,4 @@
 
-.meta
-.DS_Store
+*.meta
+*.DS_Store
+*.log
