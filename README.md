@@ -9,7 +9,7 @@ I'm ready preparing to develop for Generative AI Game.
 
 Environment Setting to use Unity3D
 - Unity Hub and Unity3D
-- Visual Studio Code ( Becuase of MacOS user )
+- Visual Studio Code 
   - Powerful editor (IntelliSense support)
   - Supports various languages ​​and environments through extended menus
   - Fast runtime
