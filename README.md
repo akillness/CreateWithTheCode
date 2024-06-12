@@ -23,23 +23,13 @@ To set up the installation environment
 - VS Code C# Extension
   - [Download](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) or Install C# Extenstion in VS Code
 
-## Unit 1. PlayerControl 
 
->This course : <https://learn.unity.com/project/1danweon-peulreieo-keonteurol?courseId=&uv=2022.3>
-
-
-It's practice how to use Unity 3D, Unit 1 Player Control
-
-![Start 3D Engine](/img/set_unity_project_1.png)*👆 Unity 3D project setting my work*
-
-![Sub-Goal Run to propeller](/img/Propeller.gif)
-
-👆 Sub-Goal Run to Propeller
-
-### Contents
-1. Start 3D Engine
-2. Pedal to the Metal
-3. High speed chase
-4. Step into the Driver's seat
-5. Plane programming
- 
+## Tutorial & Prototype Project
+### Unit 1. PlayerControl 
+- Project Design : <https://learn.unity.com/tutorial/silseub-1-peurojegteu-seolgye-munseo?uv=2021.3&projectId=63c62efbedbc2a291fd6a62a#>
+- Project Design Document : <https://docs.google.com/document/d/1e6wyackRWaZYTAzl25b-Is0E7pUqtlPG-6d7qndW8jE/edit>
+### Unit 2. Basic Gameplay
+### Unit 3. Sound and Effect
+### Unit 4. Gameplay Machanics
+### Unit 5. User Interface
+### Unit 6. Next Step
