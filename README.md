@@ -26,9 +26,23 @@ To set up the installation environment
 
 ## Tutorial & Prototype Project
 ### Unit 1. PlayerControl 
+
+> [!IMPORTANT] Below link is detail document to design components in game
+
+Core document
 - Project Design : <https://learn.unity.com/tutorial/silseub-1-peurojegteu-seolgye-munseo?uv=2021.3&projectId=63c62efbedbc2a291fd6a62a#>
 - Project Design Document : <https://docs.google.com/document/d/1e6wyackRWaZYTAzl25b-Is0E7pUqtlPG-6d7qndW8jE/edit>
+
 ### Unit 2. Basic Gameplay
+> Learn at Unity3D : <https://learn.unity.com/tutorial/2-2gang-meogi-balsahagi?uv=2021.3&projectId=63c74056edbc2a4df1bc02f7#>
+
+> [!IMPORTANT] That's important things for interactive playing
+
+Core keywords
+- Non-player
+- Player Abilities
+- Randomness
+
 ### Unit 3. Sound and Effect
 ### Unit 4. Gameplay Machanics
 ### Unit 5. User Interface
