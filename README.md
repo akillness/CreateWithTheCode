@@ -27,7 +27,8 @@ To set up the installation environment
 ## Tutorial & Prototype Project
 ### Unit 1. PlayerControl 
 
-> [!IMPORTANT] Below link is detail document to design components in game
+> [!IMPORTANT]
+> Below link is detail document to design components in game
 
 Core document
 - Project Design : <https://learn.unity.com/tutorial/silseub-1-peurojegteu-seolgye-munseo?uv=2021.3&projectId=63c62efbedbc2a291fd6a62a#>
@@ -36,7 +37,8 @@ Core document
 ### Unit 2. Basic Gameplay
 > Learn at Unity3D : <https://learn.unity.com/tutorial/2-2gang-meogi-balsahagi?uv=2021.3&projectId=63c74056edbc2a4df1bc02f7#>
 
-> [!IMPORTANT] That's important things for interactive playing
+> [!IMPORTANT]
+> That's important things for interactive playing
 
 Core keywords
 - Non-player
