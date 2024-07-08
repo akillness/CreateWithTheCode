@@ -45,6 +45,14 @@ Core keywords
 - Player Abilities
 - Randomness
 
+Tutorial.2
+- Create Prefabs
+- Override Prefabs
+- Test for key presses
+- Instantiate objects
+- Destroy objects
+- Else-if statements
+
 ### Unit 3. Sound and Effect
 ### Unit 4. Gameplay Machanics
 ### Unit 5. User Interface
