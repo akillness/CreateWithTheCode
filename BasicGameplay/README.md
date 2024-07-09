@@ -14,7 +14,9 @@ I'm ready preparing to develop for Generative AI Game.
 
 >This course : <https://learn.unity.com/project/2danweon-gibon-geimpeulrei?uv=2021.3>
 
-[Basic Gameplay](../img/BasicGameplay.gif)
+![Basic Gameplay](../img/BasicGameplay.gif)
+
+*👆 Unity 3D project setting my work*
 
 It's practice how to use Unity 3D, Unit 2 Basic Gameplay
 
@@ -41,7 +43,7 @@ Tutorial.4
 - Override Functions
 - Log Debug Messages to console
 
-[Challenge](../img/Challenge2.gif)
+![Challenge](../img/Challenge2.gif)
 
 >[!IMPORTANT]
 > Challenge 2 [DONE]
