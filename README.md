@@ -9,6 +9,7 @@ I'm ready preparing to develop for Generative AI Game.
 
 Environment Setting to use Unity3D
 - Unity Hub and Unity3D
+  - Current, 2022.3.30f1 
 - Visual Studio Code 
   - Powerful editor (IntelliSense support)
   - Supports various languages ​​and environments through extended menus
