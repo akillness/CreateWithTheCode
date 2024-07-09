@@ -53,6 +53,26 @@ Tutorial.2
 - Destroy objects
 - Else-if statements
 
+Tutorial.3
+- SpwanManager
+- Arrays
+- KeyCode
+- Random Generation
+- Local VS Global Variables
+- Perspective VS Isometric Projection
+
+Tutorial.4
+- Create Custom Methods/Functions
+- InvokeRepeating() to repeat code
+- Colliders and Triggers
+- Override Functions
+- Log Debug Messages to console
+
+>[!IMPORTANT]
+> Challenge 2 [DONE]
+> 
+> Unity3D Challenge : <https://learn.unity.com/tutorial/gwaje-2-muleo-ogi-noli?uv=2021.3&projectId=63c74056edbc2a4df1bc02f7#>
+
 ### Unit 3. Sound and Effect
 ### Unit 4. Gameplay Machanics
 ### Unit 5. User Interface

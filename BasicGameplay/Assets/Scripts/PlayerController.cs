@@ -8,7 +8,7 @@ public class PlayerController : MonoBehaviour
     public float horizontalInput;
     public float speed = 10.0f;
     public float xRange = 18.0f;
-
+    
     public GameObject projecttilePrefabs;
     // Start is called before the first frame update
     void Start()

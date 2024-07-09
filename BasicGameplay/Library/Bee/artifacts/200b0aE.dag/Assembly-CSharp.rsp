@@ -353,9 +353,16 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.30f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/Challenge 2/Scripts/DestroyOutOfBoundsX.cs"
+"Assets/Challenge 2/Scripts/DetectCollisionsX.cs"
+"Assets/Challenge 2/Scripts/MoveForwardX.cs"
+"Assets/Challenge 2/Scripts/PlayerControllerX.cs"
+"Assets/Challenge 2/Scripts/SpawnManagerX.cs"
 "Assets/Scripts/DestroyOutOfBounds.cs"
+"Assets/Scripts/DetectCollisions.cs"
 "Assets/Scripts/MoveForward.cs"
 "Assets/Scripts/PlayerController.cs"
+"Assets/Scripts/SpawnManager.cs"
 -langversion:9.0
 /deterministic
 /optimize+
