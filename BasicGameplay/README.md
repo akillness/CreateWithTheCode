@@ -5,11 +5,16 @@ It's just Unity 3D tutorial course.
 
 I'm ready preparing to develop for Generative AI Game.
 
+>[!IMPORTANT]
+> If you want to test this project, Please import **"Backup_proj.unitypackage"** by import custom package.
+
+
 > Learn at Unity3D : <https://learn.unity.com/tutorial/2-2gang-meogi-balsahagi?uv=2021.3&projectId=63c74056edbc2a4df1bc02f7#>
 
 
 >This course : <https://learn.unity.com/project/2danweon-gibon-geimpeulrei?uv=2021.3>
 
+[Basic Gameplay](../img/BasicGameplay.gif)
 
 It's practice how to use Unity 3D, Unit 2 Basic Gameplay
 
@@ -35,6 +40,8 @@ Tutorial.4
 - Colliders and Triggers
 - Override Functions
 - Log Debug Messages to console
+
+[Challenge](../img/Challenge2.gif)
 
 >[!IMPORTANT]
 > Challenge 2 [DONE]

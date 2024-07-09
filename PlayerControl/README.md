@@ -10,11 +10,12 @@ I'm ready preparing to develop for Generative AI Game.
 
 
 It's practice how to use Unity 3D, Unit 1 Player Control
+>[!IMPORTANT]
+> If you want to test this project, Please import **"Backup_proj.unitypackage"** by import custom package.
 
 
-
-
-![Start 3D Engine](/img/set_unity_project_1.png)*👆 Unity 3D project setting my work*
+![Player Controll](../img/PlayerControll.gif)
+![Start 3D Engine](../img/set_unity_project_1.png)*👆 Unity 3D project setting my work*
 
 
 ### Contents
@@ -26,6 +27,6 @@ It's practice how to use Unity 3D, Unit 1 Player Control
    - Sub-goal rRunning propeller [**done**]
 
 
-![Sub-Goal Run to propeller](/img/Propeller.gif)
+![Sub-Goal Run to propeller](../img/Propeller.gif)
 
 👆 Sub-Goal Runnig Propeller
