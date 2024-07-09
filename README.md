@@ -27,6 +27,8 @@ To set up the installation environment
 ## Tutorial & Prototype Project
 ### Unit 1. PlayerControl 
 
+Github : <https://github.com/akillness/CreateWithTheCode/tree/main/PlayerControl>
+
 > [!IMPORTANT]
 > Below link is detail document to design components in game
 
@@ -35,7 +37,8 @@ Core document
 - Project Design Document : <https://docs.google.com/document/d/1e6wyackRWaZYTAzl25b-Is0E7pUqtlPG-6d7qndW8jE/edit>
 
 ### Unit 2. Basic Gameplay
-> Learn at Unity3D : <https://learn.unity.com/tutorial/2-2gang-meogi-balsahagi?uv=2021.3&projectId=63c74056edbc2a4df1bc02f7#>
+
+Github : <https://github.com/akillness/CreateWithTheCode/tree/main/BasicGameplay>
 
 > [!IMPORTANT]
 > That's important things for interactive playing
@@ -44,34 +47,6 @@ Core keywords
 - Non-player
 - Player Abilities
 - Randomness
-
-Tutorial.2
-- Create Prefabs
-- Override Prefabs
-- Test for key presses
-- Instantiate objects
-- Destroy objects
-- Else-if statements
-
-Tutorial.3
-- SpwanManager
-- Arrays
-- KeyCode
-- Random Generation
-- Local VS Global Variables
-- Perspective VS Isometric Projection
-
-Tutorial.4
-- Create Custom Methods/Functions
-- InvokeRepeating() to repeat code
-- Colliders and Triggers
-- Override Functions
-- Log Debug Messages to console
-
->[!IMPORTANT]
-> Challenge 2 [DONE]
-> 
-> Unity3D Challenge : <https://learn.unity.com/tutorial/gwaje-2-muleo-ogi-noli?uv=2021.3&projectId=63c74056edbc2a4df1bc02f7#>
 
 ### Unit 3. Sound and Effect
 ### Unit 4. Gameplay Machanics
